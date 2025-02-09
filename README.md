@@ -1,7 +1,7 @@
 
-# Project Title : Exercice 1
+# Project Title : Exercice 2
 
-Here is a solution of my first exercice to be done in HTML.
+Here is a solution of my second exercice to be done in HTML.
 
 ## Screenshots
 
@@ -14,4 +14,3 @@ Here is a solution of my first exercice to be done in HTML.
 ## Authors
 
 - [@Briso10-dev](https://github.com/Briso10-dev)
-
